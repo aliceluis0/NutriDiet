@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+ 
+html,body{
+    font-size: 100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-rendering: optimizeSpeed;
+ }
+
+header{
+    background-color:white;
+    display: flex;
+}
+
+.nav,a{
+    color: orange;
+    text-decoration: none;
+    font-size: 1.7rem;
+    padding: 3.5rem;
+}
+.figure > img{
+    width: 11rem;
+    height: 11rem;
+    border-radius: 100%;
+    margin-left: 3rem;
+}
+.img {
+    width: 40rem;
+    height: 40rem;
+    padding: rem;
+    margin-left: 24rem;
+
+}
+
+.container{
+    display: flex;
+}
+
+
+.h1{
+    align-items: center;
+    justify-content: center;
+    color:white;
+    margin-left: 6rem;
+    line-height: 4rem;
+}
+
+.h2{
+    align-items: center;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    margin-left: 4rem;
+    line-height: 3rem;
+
+
+}
+
+.h3{ align-items: center;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    margin-left: 4rem;
+    line-height: 2rem;
+    padding: 10rem;
+
+}
+
+
+.div{
+    align-items: center;
+}
+
+*{
+    color:orange ;
+}
+
+.p{
+    margin-bottom: 1rem;
+}
+
+.img{
+    width: 45rem;
+    height: 28rem;
+    padding: 3rem;
+    margin-left: 24rem;
+}
